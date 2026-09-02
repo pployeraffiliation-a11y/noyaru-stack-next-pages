@@ -1,7 +1,7 @@
 import Head from 'next/head';
 
-const title = 'A propos du site de test Next Pages';
-const description = "Page temoin du site fixture Next Pages : elle est saine et doit rester rigoureusement intacte apres la correction.";
+const title = 'À propos de Next Pages : découvrez notre site de test complet';
+const description = "Découvrez la page À propos de Next Pages, site de test fixture. Présentation complète du projet, de son fonctionnement et de ses objectifs clés.";
 const canonical = 'https://noyaru-stack-next-pages.netlify.app/a-propos';
 
 export default function Page() {
