@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond</title>
+        <title>Titre trop long pour le correcteur - Noyaru 2023, analyse</title>
         <meta name="description" content="Une meta description volontairement trop longue pour déclencher la famille des descriptions sur une page non indexable en 2023." />
         <meta name="robots" content="noindex, follow" />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-long" />
