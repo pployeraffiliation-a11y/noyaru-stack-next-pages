@@ -6,6 +6,7 @@ import Head from 'next/head';
 export default function Page() {
   return (
     <main>
+      <h1>Parcours d'obstacles Noyaru</h1>
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Page de test du parcours d'obstacles Noyaru</title>
