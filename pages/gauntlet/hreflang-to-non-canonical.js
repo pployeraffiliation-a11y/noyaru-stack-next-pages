@@ -12,7 +12,7 @@ export default function Page() {
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru, mettant en avant un point spécifique pour la famille ciblée." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
-        <link rel="alternate" hreflang="en" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-other" />
+        <link rel="alternate" hreflang="en" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-http" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Hreflang vers non-canonical - Parcours d'obstacles Noyaru" />
         <meta property="og:description" content="Page de test du parcours d'obstacles Noyaru, mettant en avant un point spécifique pour la famille ciblée." />
