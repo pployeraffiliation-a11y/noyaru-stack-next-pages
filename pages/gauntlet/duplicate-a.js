@@ -9,16 +9,16 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Deux pages qui portent exactement le meme titre pour le test</title>
-        <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+        <meta name="description" content="Page du parcours d'obstacles : elle sert à provoquer une anomalie spécifique." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-        <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+        <meta property="og:description" content="Page du parcours d'obstacles : elle sert à provoquer une anomalie spécifique." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-        <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+        <meta name="twitter:description" content="Page du parcours d'obstacles : elle sert à provoquer une anomalie spécifique." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
       <h1>Parcours d'obstacles</h1>
