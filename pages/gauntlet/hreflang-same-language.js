@@ -11,6 +11,7 @@ export default function Page() {
         <title>Page de test du parcours d'obstacles Noyaru - Double Slash</title>
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru, présentant les défis et les spécificités de ce parcours unique." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
+        <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
