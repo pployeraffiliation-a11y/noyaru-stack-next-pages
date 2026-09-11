@@ -15,11 +15,11 @@ export default function Page() {
         <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
         <meta property="og:description" content="Page du parcours d'obstacles : elle sert à provoquer UNE anomalie et une seule." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
-        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
         <meta name="twitter:description" content="Page du parcours d'obstacles : elle sert à provoquer UNE anomalie et une seule." />
-        <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles" />
       </Head>
       <h1>Parcours d'obstacles</h1>
       <p>Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
