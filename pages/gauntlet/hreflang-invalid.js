@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Page de test du parcours d'obstacles Noyaru - Double Slash</title>
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour la famille visée lors du crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
