@@ -8,18 +8,18 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Page de test du parcours d'obstacles Noyaru - Hreflang Non Canonical</title>
         <meta name="description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="en" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-other" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru - Hreflang Non Canonical" />
         <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru - Hreflang Non Canonical" />
         <meta name="twitter:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
