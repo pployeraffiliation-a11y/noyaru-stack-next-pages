@@ -18,11 +18,11 @@ export default function Page() {
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonical} />
-        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" alt="Image de prévisualisation du blog" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" alt="Image de prévisualisation du blog" />
       </Head>
       <h1>{title}</h1>
       <p>Articles.</p>
