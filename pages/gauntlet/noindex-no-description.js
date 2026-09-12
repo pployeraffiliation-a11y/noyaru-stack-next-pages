@@ -15,6 +15,7 @@ export default function Page() {
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-no-description" />
+        <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et stimulante." />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
