@@ -8,16 +8,16 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Double Slash - Parcours d'obstacles Noyaru</title>
         <meta name="description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant une anomalie spécifique." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/double-slash" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta property="og:title" content="Double Slash - Parcours d'obstacles Noyaru" />
         <meta property="og:description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant une anomalie spécifique." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/double-slash" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta name="twitter:title" content="Double Slash - Parcours d'obstacles Noyaru" />
         <meta name="twitter:description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant une anomalie spécifique." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
