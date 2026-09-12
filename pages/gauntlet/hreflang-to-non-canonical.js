@@ -8,18 +8,18 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Page de test unique du parcours d'obstacles Noyaru</title>
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru, illustrant un cas spécifique pour le crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="en" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-other" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta property="og:title" content="Page de test unique du parcours d'obstacles Noyaru" />
         <meta property="og:description" content="Page de test du parcours d'obstacles Noyaru, illustrant un cas spécifique pour le crawl." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta name="twitter:title" content="Page de test unique du parcours d'obstacles Noyaru" />
         <meta name="twitter:description" content="Page de test du parcours d'obstacles Noyaru, illustrant un cas spécifique pour le crawl." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
