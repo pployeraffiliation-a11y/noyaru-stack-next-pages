@@ -17,6 +17,7 @@ export default function Page() {
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+        <meta name="twitter:title" content="Parcours d'obstacles - Anomalie spécifique" />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
     <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
       </Head>
