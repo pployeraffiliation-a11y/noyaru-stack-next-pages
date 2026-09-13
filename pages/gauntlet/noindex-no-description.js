@@ -7,6 +7,7 @@ export default function Page() {
   return (
     <main>
       <Head>
+        <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante." />
         <meta name="viewport" content="width=device-width" />
         <title>Page de test du parcours d'obstacles Noyaru</title>
         <meta name="robots" content="noindex, follow" />
