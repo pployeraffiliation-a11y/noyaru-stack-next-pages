@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Deux hreflang pour la meme langue | Test Noyaru</title>
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru consacree au cas de deux annotations hreflang pour la meme langue pointant vers deux pages differentes." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
