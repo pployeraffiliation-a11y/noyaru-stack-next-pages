@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://noyaru-stack-next-pages.netlify.app/</loc></url>
-<url><loc>https://noyaru-stack-next-pages.netlify.app/blog</loc></url>
+<url><loc>https://noyaru-stack-next-pages.netlify.app/blog/</loc></url>
 <url><loc>https://noyaru-stack-next-pages.netlify.app/a-propos</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-title</loc></url>
@@ -12,8 +12,6 @@
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-b</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-http</loc></url>
-  <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-relay</loc></url>
-  <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-other</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-a</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-b</loc></url>
   <url><loc>https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid</loc></url>
