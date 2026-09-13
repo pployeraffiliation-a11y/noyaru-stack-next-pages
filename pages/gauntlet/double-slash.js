@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Double barre oblique dans une URL — Test Noyaru</title>
         <meta name="description" content="Page de test du parcours d'obstacles Noyaru dediee a l'anomalie de double barre oblique dans une URL de lien interne au crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/double-slash" />
         <meta property="og:type" content="article" />
