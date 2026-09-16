@@ -7,6 +7,7 @@ export default function Page() {
   return (
     <main>
       <Head>
+        <meta name="description" content="Cette page traite du parcours d'obstacles Noyaru, illustrant le cas d'une meta description manquante." />
         <meta name="viewport" content="width=device-width" />
         <title>Page de test du parcours d'obstacles Noyaru</title>
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-meta-description" />
