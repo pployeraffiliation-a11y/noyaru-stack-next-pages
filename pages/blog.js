@@ -3,7 +3,7 @@ import Head from 'next/head';
 const title = 'Blog du site de test Next Pages';
 const description = "Index du blog du site fixture Next.js Pages Router, servant a verifier que la correction ne touche pas les autres pages.";
 // THE INJECTED DEFECT: the trailing slash. The host serves /blog and 301s /blog/ to it.
-const canonical = 'https://noyaru-stack-next-pages.netlify.app/blog/';
+const canonical = 'https://noyaru-stack-next-pages.netlify.app/blog';
 
 export default function Page() {
   return (
