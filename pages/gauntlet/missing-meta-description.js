@@ -16,9 +16,10 @@ export default function Page() {
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-meta-description" />
         <meta property="og:description" content="Cette page traite le cas 'missing meta description' dans le parcours d'obstacles Noyaru." />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="Cette page traite le cas 'missing meta description' dans le parcours d'obstacles Noyaru." />
         <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <h1>Parcours d'obstacles : missing meta description</h1>
       <p>Cette page du parcours traite le cas « missing meta description ». Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
