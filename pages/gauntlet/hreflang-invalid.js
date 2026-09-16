@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Hreflang Invalid : Erreurs dans le parcours d'obstacles</title>
         <meta name="description" content="Cette page traite des erreurs hreflang dans le parcours d'obstacles, illustrant un cas spécifique d'anomalie à corriger." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
