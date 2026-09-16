@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Hreflang Same Language dans le Parcours d'Obstacles Noyaru</title>
         <meta name="description" content="Cette page du parcours d'obstacles traite des cas de hreflang pour la même langue, illustrant une anomalie spécifique pour le crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
