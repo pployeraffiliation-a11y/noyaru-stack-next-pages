@@ -11,6 +11,7 @@ export default function Page() {
         <title>Hreflang Same Language - Parcours d'obstacles Noyaru</title>
         <meta name="description" content="Cette page du parcours d'obstacles traite des cas de hreflang pour la même langue, en soulignant les spécificités du crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
+        <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-same-language" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Hreflang Same Language - Parcours d'obstacles Noyaru" />
