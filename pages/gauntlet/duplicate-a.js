@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Deux pages qui portent exactement le meme titre pour le test</title>
+        <title>Test de parcours d'obstacles : page duplicate a</title>
         <meta name="description" content="Cette page illustre un cas de doublon dans le parcours d'obstacles, mettant en avant les défis rencontrés lors de la navigation." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
         <meta property="og:type" content="article" />
