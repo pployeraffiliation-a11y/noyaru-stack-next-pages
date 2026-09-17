@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Hreflang vers non canonical - Parcours d'obstacles Noyaru</title>
         <meta name="description" content="Cette page du parcours d'obstacles traite des hreflangs pointant vers des pages non canoniques, soulignant les implications pour le crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
