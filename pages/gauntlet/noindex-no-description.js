@@ -9,6 +9,7 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Page de test du parcours d'obstacles Noyaru</title>
+        <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique qui teste vos compétences et votre détermination. Rejoignez-nous pour relever le défi !" />
         <meta name="robots" content="noindex, follow" />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-no-description" />
         <meta property="og:type" content="article" />
