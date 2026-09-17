@@ -11,7 +11,7 @@ export default function Page() {
         <title>Test de parcours d'obstacles : hreflang invalid</title>
         <meta name="description" content="Cette page traite du cas 'hreflang invalid' dans le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le test." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
-        <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
+        <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Test de parcours d'obstacles : hreflang invalid" />
         <meta property="og:description" content="Cette page traite du cas 'hreflang invalid' dans le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le test." />
