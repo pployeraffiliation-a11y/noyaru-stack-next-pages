@@ -8,17 +8,17 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Page de test du parcours d'obstacles Noyaru</title>
+        <title>Test de parcours d'obstacles : hreflang invalid</title>
         <meta name="description" content="Cette page traite du cas 'hreflang invalid' dans le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le test." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta property="og:title" content="Test de parcours d'obstacles : hreflang invalid" />
         <meta property="og:description" content="Cette page traite du cas 'hreflang invalid' dans le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le test." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+        <meta name="twitter:title" content="Test de parcours d'obstacles : hreflang invalid" />
         <meta name="twitter:description" content="Cette page traite du cas 'hreflang invalid' dans le parcours d'obstacles Noyaru, illustrant une anomalie spécifique pour le test." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
