@@ -8,16 +8,16 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Deux pages qui portent exactement le meme titre pour le test</title>
+        <title>Page de test pour le parcours d'obstacles Noyaru - Duplicate A</title>
         <meta name="description" content="Cette page duplicate-a du parcours d'obstacles illustre un cas de doublon pour le test SEO, avec une description unique et pertinente." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+        <meta property="og:title" content="Page de test pour le parcours d'obstacles Noyaru - Duplicate A" />
         <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-a" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+        <meta name="twitter:title" content="Page de test pour le parcours d'obstacles Noyaru - Duplicate A" />
         <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
