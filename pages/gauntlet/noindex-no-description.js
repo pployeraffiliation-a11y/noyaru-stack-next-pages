@@ -19,6 +19,7 @@ export default function Page() {
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Parcours Noyaru : noindex no description" />
+        <meta name="twitter:description" content="Page du parcours noindex sans description : cas isolé pour déclencher uniquement l'anomalie meta description manquante lors du crawl du correcteur SEO." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
       <h1>Parcours d'obstacles : noindex no description</h1>
