@@ -7,6 +7,7 @@ export default function Page() {
   return (
     <main>
       <Head>
+        <title>Parcours Noyaru : page sans titre déclarée au départ</title>
         <meta name="viewport" content="width=device-width" />
         <meta name="description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-title" />
