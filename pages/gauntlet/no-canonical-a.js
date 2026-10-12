@@ -9,7 +9,7 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Deux pages jumelles sans canonical declare</title>
-        <meta name="description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
+        <meta name="description" content="Page no-canonical-a du parcours d'obstacles : jumelle sans canonical, conçue pour declencher la detection des pages dupliquees sans balise canonique." />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
         <meta property="og:description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
