@@ -11,6 +11,7 @@ export default function Page() {
         <title>Parcours Noyaru : hreflang to non canonical</title>
         <meta name="description" content="Page « hreflang to non canonical » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
+        <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="fr" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-to-non-canonical" />
         <link rel="alternate" hreflang="en" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-other" />
         <meta property="og:type" content="article" />
