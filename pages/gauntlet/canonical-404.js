@@ -10,7 +10,7 @@ export default function Page() {
         <meta name="viewport" content="width=device-width" />
         <title>Parcours Noyaru : canonical 404</title>
         <meta name="description" content="Page « canonical 404 » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-        <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/page-absente" />
+        <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/canonical-404" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Parcours Noyaru : canonical 404" />
         <meta property="og:description" content="Page « canonical 404 » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
