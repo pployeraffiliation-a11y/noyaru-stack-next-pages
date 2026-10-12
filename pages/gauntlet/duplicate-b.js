@@ -8,16 +8,16 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Deux pages qui portent exactement le meme titre pour le test</title>
+        <title>Parcours Noyaru : page duplicate-b, titre unique du test</title>
         <meta name="description" content="Page duplicate-b du parcours d'obstacles : son contenu repete deliberement celui de duplicate-a pour que la famille des meta descriptions dupliquees se" />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-b" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+        <meta property="og:title" content="Parcours Noyaru : page duplicate-b, titre unique du test" />
         <meta property="og:description" content="Page duplicate-b du parcours d'obstacles : son contenu repete deliberement celui de duplicate-a pour que la famille des meta descriptions dupliquees se declenche au crawl." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/duplicate-b" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+        <meta name="twitter:title" content="Parcours Noyaru : page duplicate-b, titre unique du test" />
         <meta name="twitter:description" content="Page duplicate-b du parcours d'obstacles : son contenu repete deliberement celui de duplicate-a pour que la famille des meta descriptions dupliquees se declenche au crawl." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
