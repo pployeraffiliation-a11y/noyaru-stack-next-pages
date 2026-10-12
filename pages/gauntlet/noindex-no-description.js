@@ -14,6 +14,7 @@ export default function Page() {
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-no-description" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Parcours Noyaru : noindex no description" />
+        <meta property="og:description" content="Page du parcours noindex sans description : cas isolé pour déclencher uniquement l'anomalie meta description manquante lors du crawl du correcteur SEO." />
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-no-description" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
