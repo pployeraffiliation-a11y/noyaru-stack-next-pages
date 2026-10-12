@@ -12,6 +12,7 @@ export default function Page() {
         <meta name="description" content="Page « hreflang invalid » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
+        <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/hreflang-invalid" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Parcours Noyaru : hreflang invalid" />
         <meta property="og:description" content="Page « hreflang invalid » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
