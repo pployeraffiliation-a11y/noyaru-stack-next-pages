@@ -17,6 +17,7 @@ export default function Page() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta name="description" content="Page du parcours d'obstacles Noyaru dédiée au cas missing meta description : aucune description n'était présente, provoquant ainsi une seule anomalie ciblée." />
       </Head>
       <h1>Parcours d'obstacles : missing meta description</h1>
       <p>Cette page du parcours traite le cas « missing meta description ». Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
