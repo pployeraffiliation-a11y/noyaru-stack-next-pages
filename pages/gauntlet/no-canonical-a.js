@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Deux pages jumelles sans canonical declare</title>
+        <title>Parcours Noyaru : page jumelle A sans canonical declare</title>
         <meta name="description" content="Page no-canonical-a du parcours d'obstacles : jumelle sans canonical, conçue pour declencher la detection des pages dupliquees sans balise canonique." />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
