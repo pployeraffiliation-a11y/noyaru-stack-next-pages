@@ -11,6 +11,11 @@ export default function Page() {
         <title>Parcours Noyaru : og missing</title>
         <meta name="description" content="Page « og missing » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/og-missing" />
+        <meta property="og:title" content="Parcours Noyaru : og missing" />
+        <meta property="og:description" content="Page « og missing » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/og-missing" />
+        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Parcours Noyaru : og missing" />
         <meta name="twitter:description" content="Page « og missing » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
