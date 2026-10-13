@@ -9,6 +9,7 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Parcours Noyaru : missing meta description</title>
+        <meta name="description" content="Page du parcours d'obstacles dédiée au cas missing meta description : aucune description n'était déclarée, déclenchant ainsi cette famille d'anomalie." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-meta-description" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Parcours Noyaru : missing meta description" />
