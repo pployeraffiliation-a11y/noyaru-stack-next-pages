@@ -9,7 +9,7 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-a" />
-        <title>Deux pages jumelles sans canonical declare</title>
+        <title>Parcours Noyaru : page jumelle B sans canonical declare</title>
         <meta name="description" content="Variante B des pages jumelles sans balise canonical : cette page miroir provoque la detection d'un doublon par le correcteur SEO automatise." />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
