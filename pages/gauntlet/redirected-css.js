@@ -20,7 +20,7 @@ export default function Page() {
         <meta name="twitter:title" content="Parcours Noyaru : redirected css" />
         <meta name="twitter:description" content="Page « redirected css » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
-        <link rel="stylesheet" href="/ancienne.css" />
+        <link rel="stylesheet" href="/style.css" />
       </Head>
       <h1>Parcours d'obstacles : redirected css</h1>
       <p>Cette page du parcours traite le cas « redirected css ». Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
