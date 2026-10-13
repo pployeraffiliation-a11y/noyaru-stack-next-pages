@@ -9,7 +9,7 @@ export default function Page() {
       <Head>
         <meta name="viewport" content="width=device-width" />
         <title>Deux pages jumelles sans canonical declare</title>
-        <meta name="description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
+        <meta name="description" content="Variante B des pages jumelles sans balise canonical : cette page miroir provoque la detection d'un doublon par le correcteur SEO automatise." />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
         <meta property="og:description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
