@@ -8,6 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
+        <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-a" />
         <title>Deux pages jumelles sans canonical declare</title>
         <meta name="description" content="Page no-canonical-a du parcours d'obstacles : jumelle de no-canonical-b, aucune ne declare de canonical, pour declencher la famille des pages dupliquees." />
         <meta property="og:type" content="article" />
