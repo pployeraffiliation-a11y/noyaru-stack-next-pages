@@ -10,6 +10,7 @@ export default function Page() {
         <meta name="viewport" content="width=device-width" />
         <title>Parcours Noyaru : noindex no description</title>
         <meta name="robots" content="noindex, follow" />
+        <meta name="description" content="Page noindex du parcours d'obstacles : elle ne declarait aucune meta description, pour declencher la famille missing_meta_description au crawl." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/noindex-no-description" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Parcours Noyaru : noindex no description" />
