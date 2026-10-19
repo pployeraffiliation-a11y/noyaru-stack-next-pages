@@ -12,6 +12,10 @@ export default function Page() {
         <meta name="description" content="Page « og incomplete » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/og-incomplete" />
         <meta property="og:title" content="Open Graph incomplet" />
+        <meta property="og:description" content="Page « og incomplete » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
+        <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
+        <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/og-incomplete" />
+        <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Parcours Noyaru : og incomplete" />
         <meta name="twitter:description" content="Page « og incomplete » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
