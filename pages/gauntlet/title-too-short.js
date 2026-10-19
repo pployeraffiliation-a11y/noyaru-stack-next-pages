@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <title>Test</title>
+        <title>Parcours d'obstacles title too short – Fixture de test SEO NJ</title>
         <meta name="description" content="Page « title too short » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/title-too-short" />
         <meta property="og:type" content="article" />
