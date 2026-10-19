@@ -20,7 +20,7 @@ export default function Page() {
         <meta name="twitter:title" content="Parcours Noyaru : mixed css" />
         <meta name="twitter:description" content="Page « mixed css » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
-        <link rel="stylesheet" href="http://noyaru-stack-next-pages.netlify.app/style.css" />
+        <link rel="stylesheet" href="https://noyaru-stack-next-pages.netlify.app/style.css" />
       </Head>
       <h1>Parcours d'obstacles : mixed css</h1>
       <p>Cette page du parcours traite le cas « mixed css ». Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
