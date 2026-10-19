@@ -8,12 +8,13 @@ export default function Page() {
     <main>
       <Head>
         <meta name="viewport" content="width=device-width" />
+        <link rel="canonical" href="https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-a" />
         <title>Deux pages jumelles sans canonical declare</title>
         <meta name="description" content="Page jumelle B du parcours d'obstacles : sans balise canonical, elle forme un doublon avec la page A pour declencher la famille des pages dupliquees." />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
         <meta property="og:description" content="Page jumelle B du parcours d'obstacles : sans balise canonical, elle forme un doublon avec la page A pour declencher la famille des pages dupliquees." />
-        <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-b" />
+        <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/no-canonical-a" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Deux pages jumelles sans canonical declare" />
