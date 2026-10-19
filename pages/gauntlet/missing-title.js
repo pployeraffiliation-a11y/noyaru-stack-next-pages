@@ -17,6 +17,7 @@ export default function Page() {
         <meta property="og:url" content="https://noyaru-stack-next-pages.netlify.app/gauntlet/missing-title" />
         <meta property="og:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Parcours Noyaru : page sans titre, anomalie corrigée" />
         <meta name="twitter:description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
         <meta name="twitter:image" content="https://noyaru-stack-next-pages.netlify.app/og.png" />
       </Head>
